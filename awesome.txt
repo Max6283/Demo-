@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 asdf
+=======
+asdf
+dfadsfdsafasdf
+>>>>>>> ae96ac00abbb8be56fc83ece68d7b494285430f8
